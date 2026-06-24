@@ -165,6 +165,16 @@ Penerapan residual connection membantu model mempelajari representasi fitur yang
 
 ---
 
+## Referensi 
+
+[MLP](https://journaljamcs.com/index.php/JAMCS/article/view/2025/4153)
+
+[Residual MLP](https://journaljamcs.com/index.php/JAMCS/article/view/2025/4153)
+
+[Robust Scaler](https://publikasi.dinus.ac.id/index.php/technoc/article/view/10463/4505)
+
+---
+
 ## Anggota kelompok:
 
 ### Nashwa Aqeela Irtisa Rudin
