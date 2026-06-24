@@ -1,8 +1,8 @@
 # Klasifikasi Epilepsi Menggunakan ANN MLP dan Residual MLP pada Dataset EEG BEED
 
-## Deskripsi Proyek
+## Deskripsi Tugas Besar
 
-Proyek ini merupakan implementasi Machine Learning untuk melakukan klasifikasi kondisi epilepsi berdasarkan sinyal EEG (Electroencephalography) menggunakan dataset **Bangalore EEG Epilepsy Dataset (BEED)**.
+Tugas besar ini merupakan klasifikasi kondisi epilepsi berdasarkan sinyal EEG (Electroencephalography) menggunakan dataset **Bangalore EEG Epilepsy Dataset (BEED)**.
 
 Penelitian ini membandingkan performa dua arsitektur jaringan saraf, yaitu:
 
@@ -127,9 +127,8 @@ Temuan utama:
 ## Struktur Repository
 
 ```text
-├── Tubes_ML_Data_BEED.ipynb
-├── dataset/
-│   └── dataset.csv
+├── Analisis Model.ipynb
+├── Dataset EEG
 ├── images/
 │   ├── distribusi_kelas.png
 │   ├── heatmap_korelasi.png
@@ -209,6 +208,5 @@ Penerapan residual connection membantu model mempelajari representasi fitur yang
 
 Tugas Besar Machine Learning
 
-Program Studi Teknik Informatika
+Program Studi Data Sains
 
-Universitas Pembangunan Nasional "Veteran" Jawa Timur
