@@ -165,9 +165,17 @@ Penerapan residual connection membantu model mempelajari representasi fitur yang
 
 ---
 
-## Pengembang
+## Anggota kelompok:
 
-Tugas Besar Machine Learning
+### Nashwa Aqeela Irtisa Rudin
 
-Program Studi Data Sains
+### Nisrina Hibatullah
+
+### Annisa Sofia Albana
+
+### Auliya Nisa' Nur Rohmah
+
+### Adhinda Dwi Rahmadilla 
+
+### Talitha Ineztasia
 
