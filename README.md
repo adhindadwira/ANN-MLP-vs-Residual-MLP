@@ -1,5 +1,3 @@
-# ANN-MLP-vs-Residual-MLP
-
 # Klasifikasi Epilepsi Menggunakan ANN MLP dan Residual MLP pada Dataset EEG BEED
 
 ## Deskripsi Proyek
