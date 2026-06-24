@@ -129,12 +129,6 @@ Temuan utama:
 ```text
 ├── Analisis Model.ipynb
 ├── Dataset EEG
-├── images/
-│   ├── distribusi_kelas.png
-│   ├── heatmap_korelasi.png
-│   ├── confusion_matrix_ann.png
-│   └── confusion_matrix_residual.png
-├── requirements.txt
 └── README.md
 ```
 
@@ -142,56 +136,24 @@ Temuan utama:
 
 ## Cara Menjalankan Proyek
 
-### 1. Clone Repository
-
-```bash
-git clone https://github.com/username/nama-repository.git
-```
-
-### 2. Masuk ke Folder Proyek
-
-```bash
-cd nama-repository
-```
-
-### 3. Install Dependency
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Jalankan Notebook
-
-```bash
-jupyter notebook
-```
-
-Kemudian buka file:
-
-```text
-Tubes_ML_Data_BEED.ipynb
-```
-
 ---
 
 ## Visualisasi
 
 ### Distribusi Kelas
 
-![Distribusi Kelas](<img width="690" height="490" alt="image" src="https://github.com/user-attachments/assets/d0249fb9-d225-4efe-99eb-a4ff38180a7d" />
+(<img width="690" height="490" alt="image" src="https://github.com/user-attachments/assets/d0249fb9-d225-4efe-99eb-a4ff38180a7d" />
 )
 
 ### Heatmap Korelasi
 
-![Heatmap Korelasi](images/heatmap_korelasi.png)
+<img width="737" height="590" alt="image" src="https://github.com/user-attachments/assets/8534810d-d21c-470e-a35e-c935fffbc35d" />
 
-### Confusion Matrix ANN MLP
 
-![Confusion Matrix ANN](images/confusion_matrix_ann.png)
+### Confusion Matrix ANN MLP vs Residual MLP
 
-### Confusion Matrix Residual MLP
+<img width="1099" height="495" alt="image" src="https://github.com/user-attachments/assets/fdb41dec-31ad-4599-b0db-e467c5057cbb" />
 
-![Confusion Matrix Residual](images/confusion_matrix_residual.png)
 
 ---
 
