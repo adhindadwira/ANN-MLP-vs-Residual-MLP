@@ -176,11 +176,10 @@ Tubes_ML_Data_BEED.ipynb
 
 ## Visualisasi
 
-Tambahkan hasil visualisasi dari notebook ke folder `images` dan tampilkan pada README.
-
 ### Distribusi Kelas
 
-![Distribusi Kelas](images/distribusi_kelas.png)
+![Distribusi Kelas](<img width="690" height="490" alt="image" src="https://github.com/user-attachments/assets/d0249fb9-d225-4efe-99eb-a4ff38180a7d" />
+)
 
 ### Heatmap Korelasi
 
