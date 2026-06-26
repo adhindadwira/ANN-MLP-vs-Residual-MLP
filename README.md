@@ -175,7 +175,7 @@ https://eltikom.poliban.ac.id/index.php/eltikom/article/view/99
 
 http://dx.doi.org/10.12785/ijcds/1571020131
 
-ttps://journaljamcs.com/index.php/JAMCS/article/view/2025/4153
+https://journaljamcs.com/index.php/JAMCS/article/view/2025/4153
 
 https://journaljamcs.com/index.php/JAMCS/article/view/2025/4153
 
