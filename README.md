@@ -167,11 +167,19 @@ Penerapan residual connection membantu model mempelajari representasi fitur yang
 
 ## Referensi 
 
-(https://journaljamcs.com/index.php/JAMCS/article/view/2025/4153)
+[Dataset](https://archive.ics.uci.edu/dataset/1134/beed:+bangalore+eeg+epilepsy+dataset)
 
-(https://journaljamcs.com/index.php/JAMCS/article/view/2025/4153)
+https://share.google/92HYt8w2wdBmPUndy
 
-(https://publikasi.dinus.ac.id/index.php/technoc/article/view/10463/4505)
+https://eltikom.poliban.ac.id/index.php/eltikom/article/view/99
+
+http://dx.doi.org/10.12785/ijcds/1571020131
+
+ttps://journaljamcs.com/index.php/JAMCS/article/view/2025/4153
+
+https://journaljamcs.com/index.php/JAMCS/article/view/2025/4153
+
+https://publikasi.dinus.ac.id/index.php/technoc/article/view/10463/4505
 
 ---
 
